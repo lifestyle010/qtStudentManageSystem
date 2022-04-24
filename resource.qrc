@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>setting.png</file>
+        <file>login.png</file>
+        <file>admin.png</file>
+        <file>homepage.png</file>
+        <file>course.png</file>
+        <file>class.png</file>
+        <file>score.png</file>
+        <file>student.png</file>
+        <file>subject.png</file>
+        <file>user.png</file>
+    </qresource>
+</RCC>
